@@ -9,7 +9,7 @@
         "buckets":[
           
           "code",
-          "latancy_nc"
+          "latency_ns"
         ],      
         "not-aggregated":{
         }
